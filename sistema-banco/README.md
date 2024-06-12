@@ -12,10 +12,10 @@ O sistema conta com as funcionalidades na v1:
 
 Na versão v2, adiciona-se as funcionalidades:
 
-    Criar Usuário
+    Criar Usuário    
+    Criar Conta
     Acessar Conta
-    Criar Conta Corrente
-    Listar Contas obs. 
+    Listar Contas 
 
 E as seguintes regras de negócio:
 
