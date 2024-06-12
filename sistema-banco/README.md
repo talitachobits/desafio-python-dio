@@ -12,7 +12,6 @@ O sistema conta com as funcionalidades na v1:
 
 Na versão v2, adiciona-se as funcionalidades:
 
-    Logar
     Criar Usuário
     Acessar Conta
     Criar Conta Corrente
