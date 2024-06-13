@@ -14,7 +14,6 @@ Na versão v2, adiciona-se as funcionalidades:
 
     Criar Usuário    
     Criar Conta
-    Acessar Conta
     Listar Contas 
 
 E as seguintes regras de negócio:
